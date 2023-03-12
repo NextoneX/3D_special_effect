@@ -3,4 +3,4 @@
 
 ### 效果展示
 
-![image](https://github.com/NextoneX/Graphics_by_Taichi/blob/main/resource/demo.gif)
+![image](https://github.com/NextoneX/3D_special_effect/blob/master/resource/demo.gif)
