@@ -5,4 +5,4 @@
 
 #### Ripple screne
 
-<img src="https://github.com/NextoneX/3D_special_effect/blob/master/resource/demo.gif" width=120px height=auto />
+<img src="https://github.com/NextoneX/3D_special_effect/blob/master/resource/demo.gif" width=600px height=auto />
